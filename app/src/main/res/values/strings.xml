@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DragAndSwipeRecyclerView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="dummy_items">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+    </array>
+
+
+    <array name="main_items">
+        <item>List - Basic Drag and Swipe</item>
+        <item>Grid - Basic Swipe</item>
+    </array>
+</resources>
